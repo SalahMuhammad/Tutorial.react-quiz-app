@@ -5,7 +5,6 @@ import QuestionCard from "./components/QuestionCard";
 // types
 import { Difficulty, QuestionState } from "./api";
 // styles
-// import styled, {createGlobalStyle} from "styled-components";
 import "./css/App.css";
 import "./css/QuestionCard.css";
 
